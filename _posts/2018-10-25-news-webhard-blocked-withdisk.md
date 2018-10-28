@@ -10,10 +10,7 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-
-
-* 기사원문
-* 미디어투데이 : <http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=145169#csidxd4ef90b650f624190575468b9c6f97e>
+* 기사원문 : [미디어투데이](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=145169#csidxd4ef90b650f624190575468b9c6f97e)
 
 방송통신위원회가 사상 최초로 **웹하드 사업자의 등록 취소를 추진** 한다.
 

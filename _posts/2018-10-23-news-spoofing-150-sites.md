@@ -11,8 +11,7 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-* 기사원문
-* SBS : <https://news.sbs.co.kr/news/endPage.do?news_id=N1004984020&plink=COPYPASTE&cooper=SBSNEWSEND>
+* 기사원문 : [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1004984020&plink=COPYPASTE&cooper=SBSNEWSEND)
 
 최신 영화와 인기 드라마 같은 영상물 106만 건을 무단으로 유포한 불법공유 사이트 3곳이 강제 폐쇄됐습니다.
 
