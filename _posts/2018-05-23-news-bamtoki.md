@@ -8,7 +8,7 @@ link: http://warning.id
 ---
 
 * 기사원문
-* 한겨례신문[http://www.hani.co.kr/arti/society/area/845854.html](http://www.hani.co.kr/arti/society/area/845854.html)
+* 한겨례신문 <http://www.hani.co.kr/arti/society/area/845854.html>
 
 ** 웹툰 불법 유통 사이트 밤토끼의 운영자가 결국 구속됐다.**
 부산경찰이 지난 1월부터 넉달간 부산과 인천을 열 번 오가며 잠복수사한 결과다.
