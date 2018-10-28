@@ -43,7 +43,7 @@ __"기다리다 끝내지 말고, 더 이상 생각만 하지 말고, 당장 행
 
 그렇다면 지금의 당신에게 물어보세요.
 
-"당신은 가난한 사람입니까?"
+__"당신은 가난한 사람입니까?"__   
 
 
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around.
