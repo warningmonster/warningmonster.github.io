@@ -11,7 +11,7 @@ url: http://warning.id
 owner:
   name:           Warning Monster
   avatar:         domPerinon-2004.jpg
-  bio:            "I want to live the better world than now"
+  bio:            "I want to live better world than now"
   email:          warningmonster.com@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Seoul
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
