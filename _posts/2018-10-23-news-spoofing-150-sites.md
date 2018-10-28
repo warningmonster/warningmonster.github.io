@@ -7,8 +7,6 @@ comments: true
 link: http://warning.id
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
-
 * 기사원문
 * SBS : link: ttps://news.sbs.co.kr/news/endPage.do?news_id=N1004984020&plink=COPYPASTE&cooper=SBSNEWSEND
 

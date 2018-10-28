@@ -7,10 +7,8 @@ comments: true
 link: http://warning.id  
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
-
 * 기사원문
-* 한겨레신문 : link: http://www.hani.co.kr/arti/society/area/845854.html
+* 한겨례신문[http://www.hani.co.kr/arti/society/area/845854.html](http://www.hani.co.kr/arti/society/area/845854.html)
 
 ** 웹툰 불법 유통 사이트 밤토끼의 운영자가 결국 구속됐다.**
 부산경찰이 지난 1월부터 넉달간 부산과 인천을 열 번 오가며 잠복수사한 결과다.
