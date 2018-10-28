@@ -2,11 +2,15 @@
 layout: post
 title: "불법공유 사이트 강제 폐쇄[토렌트킴, 토렌트걸, 보고보고]"
 description: "불법공유 사이트 강제 폐쇄[토렌트킴, 토렌트걸, 보고보고]"
+modified: 2018-10-23
 tags: [뉴스, 강제폐쇄, 토렌트킴, 토렌트걸, 보고보고]
-comments: true
-link: https://warning.id
----
 
+image:
+  path: /images/abstract-3.jpg
+  feature: abstract-3.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+---
 * 기사원문
 * SBS : <https://news.sbs.co.kr/news/endPage.do?news_id=N1004984020&plink=COPYPASTE&cooper=SBSNEWSEND>
 

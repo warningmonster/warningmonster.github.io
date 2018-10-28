@@ -2,10 +2,15 @@
 layout: post
 title: "위드디스크 웹하드 등록 취소 추진"
 description: "위드디스크 웹하드 등록 취소 추진"
-tags: [뉴스, 웹하드 등록 취소, 위드디스크]
-comments: true
-link: https://warning.id
+modified: 2018-10-25
+tags: [웹하드 등록 취소, 위드디스크]
+image:
+  path: /images/abstract-3.jpg
+  feature: abstract-3.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+
 
 * 기사원문
 * 미디어투데이 : <http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=145169#csidxd4ef90b650f624190575468b9c6f97e>
