@@ -5,8 +5,8 @@ description: "밤토끼 운영자 구속"
 modified: 2014-05-23
 tags: [밤토끼, 밤토끼 운영자 구속]
 image:
-  path: ##/images/abstract-3.jpg
-  feature: ##abstract-3.jpg
+  path: /images/abstract-3.jpg
+  feature: abstract-3.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
