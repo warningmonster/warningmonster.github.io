@@ -9,16 +9,17 @@ comments: false
 modified: 2018-10-28
 ---
 마윈이 말합니다.
-"세상에서 가장 같이 일하기 힘든 사람은 가난한 사람입니다."
+#
+"세상에서 가장 같이 일하기 힘든 사람은 가난한 사람입니다."  
+#
+마윈이 묻습니다.  
+"당신은 가난한 사람입니까?"  
 
-마윈이 묻습니다.
-"당신은 가난한 사람입니까?"
+마윈이 다시 말합니다.  
+"기다리다 끝내지 말고, 더 이상 생각만 하지 말고, 당장 행동하세요."  
 
-마윈이 다시 말합니다.
-"기다리다 끝내지 말고, 더 이상 생각만 하지 말고, 당장 행동하세요."
-
-자유를 주면, 함정이라 하고
-작은 비즈니스라고 하면, 돈을 별로 못 번다고 하고
+자유를 주면, 함정이라 하고  
+작은 비즈니스라고 하면, 돈을 별로 못 번다고 하고  
 큰 비즈니스하자고 하면, 돈이 없다고 하고
 전통적인 비즈니스라고 하면, 어렵다고 하고
 새로운 사업을 하자고 하면, 다단계라고 하고
@@ -40,7 +41,7 @@ modified: 2018-10-28
 
 그렇다면 지금의 당신에게 물어보세요.
 
-"당신은 가난한 사람입니까?" 
+"당신은 가난한 사람입니까?"
 
 
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around.
