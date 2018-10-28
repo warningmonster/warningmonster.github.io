@@ -1,17 +1,17 @@
-title:            DNS 차단 알림(DNS modification alert)
-description:      DNS 차단 감시/레포팅 사이트(DNS monitoring/reporting Site)
+title:            DNS 변조 알림[DNS spoofing alert]
+description:      DNS 변조 [DNS Spoofing Reporting Site]
 disqus_shortname:
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://warning.id
 
 # Owner/author information
 owner:
   name:           Warning Monster
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  avatar:         domPerinon-2004.jpg
+  bio:            "I want to live the better world than now"
   email:          warningmonster.com@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
@@ -21,7 +21,7 @@ owner:
   linkedin:
   instagram:
   flickr:
-  tumblr:         
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
