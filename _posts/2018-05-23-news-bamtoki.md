@@ -4,7 +4,7 @@ title: "밤토끼 운영자 구속 소식"
 description: "Example and code for using link posts."
 tags: [뉴스, 밤토끼, 밤토끼 운영자 구속]
 comments: true
-link: http://warning.id  
+link: https://warning.id  
 ---
 
 * 기사원문

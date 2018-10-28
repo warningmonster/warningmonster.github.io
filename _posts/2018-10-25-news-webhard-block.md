@@ -4,7 +4,7 @@ title: "위드디스크 웹하드 등록 취소 추진"
 description: "위드디스크 웹하드 등록 취소 추진"
 tags: [뉴스, 웹하드 등록 취소, 위드디스크]
 comments: true
-link: http://warning.id
+link: https://warning.id
 ---
 
 * 기사원문
