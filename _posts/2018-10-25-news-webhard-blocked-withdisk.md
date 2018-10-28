@@ -10,8 +10,6 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-* 기사원문 : [미디어투데이](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=145169#csidxd4ef90b650f624190575468b9c6f97e)
-
 방송통신위원회가 사상 최초로 **웹하드 사업자의 등록 취소를 추진** 한다.
 
 방통위는 25일 오후 과천정부청사에서 전체회의를 열고 웹하드 사업자인 ‘위드디스크’의 등록 취소를 유영민 과학기술정보통신부 장관에게 건의하기로 의결했다. 웹하드 사업자 시장 단속은 방통위 업무지만 등록 취소 권한은 과기정통부에 있다.
@@ -23,3 +21,5 @@ image:
 허욱 부위원장은 “지난 6월 웹하드 사업자들과 만나 디지털 성범죄 문제가 심각한 만큼 노력해달라고 했다”며 “규제당국이 요구했는데도 아무런 조치를 취하지 않은 것”이라고 지적했다.
 
 김석진 상임위원은 방통위가 현재 웹하드 사업자에 ‘과태료’ ‘등록취소 건의’ 외에 할 수 있는 조치가 없다며 “웹하드 사업자들의 수익이 상당한데 과태료 부과는 일도 아니라고 생각하는 거 같다. 강력히 처벌할 제도를 만들어야 한다”고 강조했다.
+
+* 기사원문 : [미디어투데이](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=145169#csidxd4ef90b650f624190575468b9c6f97e)

@@ -11,8 +11,6 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-* 기사원문 : [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1004984020&plink=COPYPASTE&cooper=SBSNEWSEND)
-
 최신 영화와 인기 드라마 같은 영상물 106만 건을 무단으로 유포한 불법공유 사이트 3곳이 강제 폐쇄됐습니다.
 
 부산경찰청 사이버안전과는 저작권법 위반 혐의로 국내 영상저작물 불법공유 사이트 3곳을 적발, 사이트 운영 관계자 7명을 붙잡아 1명을 구속하고 6명을 불구속 입건했다고 23일 밝혔습니다.
@@ -40,3 +38,5 @@ C 씨는 올해 5월 토렌트킴 사이트가 폐쇄되자 대체 사이트로 
 보고보고 사이트 운영자 D(42) 씨는 2003년 2월부터 지난달까지 15년동안 회원 25만 명을 상대로 영상물 36만 건을 유포해 사이트 배너 광고비 등의 명목으로 28억원을 챙긴 혐의를 받고 있습니다.
 
 D 씨는 2005년 국내로 들어와 프로그래머를 고용해 사이트를 운영했고 해외에 서버를 둬 수사기관의 추적을 피해왔다고 경찰은 설명했습니다.
+
+* 기사원문 : [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1004984020&plink=COPYPASTE&cooper=SBSNEWSEND)

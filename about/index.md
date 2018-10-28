@@ -40,7 +40,7 @@ modified: 2018-10-28
 
 그렇다면 지금의 당신에게 물어보세요.
 
-"당신은 가난한 사람입니까?"
+"당신은 가난한 사람입니까?" 
 
 
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around.
