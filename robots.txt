@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://warning.id/sitemap.xml
