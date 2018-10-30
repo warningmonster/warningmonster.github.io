@@ -1,0 +1,26 @@
+---
+layout: post
+title: "2018.10.30일자 차단 사이트 목록"
+description: "2018.10.30일자 차단 사이트 목록"
+modified: 2018-10-30
+tags: [DNS차단, DNS변조]
+image:
+  path: /images/abstract-3.jpg
+  feature: abstract-3.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+---
+
+**1. SK 브로드밴드**
+babtoon.com
+bugstoon.info
+gazua02.com
+monktoon.com
+
+**2. KT**
+monktoon.com
+ttonga.com
+
+**3. LGU+**
+monktoon.com
+ttonga.com
