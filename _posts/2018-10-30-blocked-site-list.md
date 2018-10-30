@@ -12,27 +12,18 @@ image:
 ---
 
 **1. SK 브로드밴드**  
-##1. SK 브로드밴드  
 
-| 순서 | 도메인        | 이름 |
-|------|---------------|------|
-| 1    | babtoon.com   |      |
-| 2    | bugstoon.info |      |
-| 3    | gazua02.com   |      |
-| 4    | monktoon.com  |      |
+1. babtoon.com  
+2. bugstoon.info  
+3. gazua02.com  
+4. monktoon.com  
 
 **2. KT**  
-##2. KT  
 
-| 순서 | 도메인       | 이름 |
-|------|--------------|------|
-| 1    | monktoon.com |      |
-| 2    | ttonga.com   |      |
+1. monktoon.com  
+2. ttonga.com  
 
 **3. LGU+**  
-##3. LGU+  
 
-| 순서 | 도메인       | 이름 |
-|------|--------------|------|
-| 1    | monktoon.com |      |
-| 2    | ttonga.com   |      |
+1. monktoon.com  
+2. ttonga.com  
