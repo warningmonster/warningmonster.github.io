@@ -3,7 +3,7 @@ layout: post
 title: "2018.10.30일자 차단 사이트 목록"
 description: "2018.10.30일자 차단 사이트 목록"
 modified: 2018-10-30
-tags: [DNS차단, DNS변조]
+tags: [DNS차단, DNS변조, babtoon.com, bugstoon.info, gazua02.com, monktoon.com, ttonga.com]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
