@@ -3,7 +3,7 @@ layout: post
 title: "2018.10.31일자 차단 사이트 목록"
 description: "2018.10.31일자 차단 사이트 목록"
 modified: 2018-10-31
-tags: [DNS차단, DNS변조,ttonga.com,torrentwo.com,monktoon.com,gazua02.com,bugstoon.info,monktoon.com,torrentwo.com,babtoon.com,bugstoon.info,gazua02.com,monktoon.com,babtoon.com]
+tags: [DNS차단, DNS변조,bugstoon.info,https://bugstoon.info,gazua02.com,https://gazua02.com]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
@@ -12,19 +12,11 @@ image:
 ---
 
 **1. SK 브로드밴드**  
-1. bugstoon.info
-2. gazua02.com
-3. monktoon.com
-4. babtoon.com
+N/A
 
 **2. KT**  
-1. ttonga.com
-2. torrentwo.com
-3. monktoon.com
+N/A
 
 **3. LGU+**  
-1. gazua02.com
-2. bugstoon.info
-3. monktoon.com
-4. torrentwo.com
-5. babtoon.com
+1. [bugstoon.info](https://bugstoon.info)/WEBTOON
+2. [gazua02.com](https://gazua02.com)/WEBTOON
