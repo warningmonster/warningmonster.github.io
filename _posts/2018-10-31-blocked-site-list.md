@@ -3,7 +3,7 @@ layout: post
 title: "2018.10.31일자 차단 사이트 목록"
 description: "2018.10.31일자 차단 사이트 목록"
 modified: 2018-10-31
-tags: [DNS차단, DNS변조,bugstoon.info,https://bugstoon.info,gazua02.com,https://gazua02.com]
+tags: [DNS차단, DNS변조, bugstoon.info, https://bugstoon.info, gazua02.com, https://gazua02.com]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
