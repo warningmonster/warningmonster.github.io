@@ -10,7 +10,7 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-> 2018.10.31에는 LGU+ 2건이 차단되었습니다.
+> 2018.10.31에는 LGU+ 2건이 차단되었습니다.  
 > SKB, KT에서는 차단건이 발견되지 않았습니다.
 
 ### 1. LGU+  
