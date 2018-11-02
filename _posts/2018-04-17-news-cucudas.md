@@ -2,7 +2,7 @@
 layout: post
 title: "쿠쿠다스 운영중단 및 운영자 구속"
 description: "쿠쿠다스 운영중단 및 운영자 구속"
-modified: 2014-04-17
+modified: 2018-04-17
 tags: [쿠쿠다스, 쿠쿠다스 운영중단, 쿠쿠다스 운영자 구속, cucudas.com, kukudas.com]
 image:
   path: /images/abstract-3.jpg
@@ -43,6 +43,6 @@ image:
 
 ### 참고문헌
   - http://m.munhwa.com/mnews/view.html?no=2018042501071439310001
-  -  https://m.blog.naver.com/PostView.nhn?blogId=copymach&logNo=221254900320&proxyReferer=http%3A%2F%2Fwww.google.com%2F  
+  - https://m.blog.naver.com/PostView.nhn?blogId=copymach&logNo=221254900320&proxyReferer=http%3A%2F%2Fwww.google.com%2F  
   - https://ggorr.net/thisthat/6033851
   - https://m.fmkorea.com/best/1022332953
