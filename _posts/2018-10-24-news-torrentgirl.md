@@ -3,7 +3,7 @@ layout: post
 title: "토렌트걸 운영중단 및 운영자 구속"
 description: "토렌트걸 운영중단 및 운영자 구속"
 modified: 2018-04-17
-tags: [쿠쿠다스, 쿠쿠다스 운영중단, 쿠쿠다스 운영자 구속, cucudas.com, kukudas.com]
+tags: [토렌트걸, 토렌트걸 운영자 구속]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
@@ -50,7 +50,6 @@ image:
 
 ### 구속 내용
   - 부산경찰청 사이버안전과
-  -
 
 ### 구속 배경
   -
