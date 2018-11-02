@@ -11,7 +11,7 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 > 쿠쿠다스 운영자(노답) 2018년 4월초 음란물 조사를 받고 구속  
-> 쿠크다스 사이트 접속불가
+> 2018.04.25 이후로 쿠크다스 사이트 접속불가
 
 - 사이트 URL : http://www.cucuda.com, http://wwww.kukudas.com
 
