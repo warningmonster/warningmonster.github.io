@@ -4,7 +4,7 @@ layout: post
 title: "2018.11.02일자 차단 사이트 목록"
 description: "2018.11.02일자 차단 사이트 목록"
 modified: 2018-11-02
-tags: [DNS차단, DNS변조,ttonga.com,https://ttonga.com]
+tags: [DNS차단, DNS변조,ttonga.com]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
