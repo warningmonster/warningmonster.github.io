@@ -3,9 +3,9 @@ title: sample post
 author: dave
 ---
 <ul>
-{% for event in site.data.history %}
+{% for data in site.data.history %}
   <li>
-    {{ event.date }} {{ event.name }}
+    {{ data.date }} {{ data.name }}
   </li>
 {% endfor %}
 </ul>
