@@ -3,7 +3,7 @@ layout: post
 title: "앱스눕 운영자 구속"
 description: "앱스눕 운영중단 및 운영자 구속"
 modified: 2018-04-17
-tags: [앱스눕, 앱스눕 운영자 구속]
+tags: [앱스눕, 앱스눕 운영자 구속, 비트코인도 몰수]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
