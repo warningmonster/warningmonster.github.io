@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: History
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
