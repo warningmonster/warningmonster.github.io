@@ -1,6 +1,6 @@
 # Menu navigation links
-- title: History
-  url: /history/
+- title: Shutdown History
+  url: /shutdown-history/
 
 - title: Youtube Downloader
   url: http://warning.so/y/

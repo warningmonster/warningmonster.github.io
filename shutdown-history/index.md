@@ -1,6 +1,6 @@
 ---
 layout: page
-title: History
+title: shutdown-History
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
