@@ -11,7 +11,7 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 ### 앱스눕이란?
-  - 성인 정보 사이트  
+  - 회원제 성인 정보 사이트.    
 
 ### 운영 방식
   - 운영자 안모씨(2017년 구속 당시 33).  
