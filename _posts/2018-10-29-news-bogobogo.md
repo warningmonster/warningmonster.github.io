@@ -3,7 +3,7 @@ layout: post
 title: "보고보고 운영중단 및 운영자 1명 구속"
 description: "보고보고 운영중단 및 운영자 구속"
 modified: 2018-10-29
-tags: [보고보고, 보고보고 운영자 1명 구속, sora.net]
+tags: [보고보고, 보고보고 운영자 1명 구속, bogobogo]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
