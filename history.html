@@ -3,9 +3,9 @@ title: sample post
 author: dave
 ---
 
-{% assign author = site.data.history[page.author] %}
-<a rel="author"
-  href="https://twitter.com/{{ author.twitter }}"
-  title="{{ author.name }}">
-    {{ author.name }}
+{% assign event = site.data.history[page.event] %}
+<a rel="event.name"
+  href="{{ event.name }}"
+  title="{{ event.name }}">
+    {{ event.name }}
 </a>
