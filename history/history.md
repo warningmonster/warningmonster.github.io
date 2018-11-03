@@ -8,7 +8,6 @@ image:
 comments: false
 modified: 2018-10-28
 ---
-
 {% for event site.data.history %}
   {{ event.date }}, {{ event.title }} <br>
 {% endfor %}
