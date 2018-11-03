@@ -1,2 +1,4 @@
 
-{{ site.data.history }}
+{% site.data.history %}
+  {{ history.date }}, {{ history.title }}
+{% endfor %}
