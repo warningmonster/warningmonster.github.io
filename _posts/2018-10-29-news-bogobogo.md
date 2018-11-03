@@ -11,7 +11,7 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 ### 보고보고이란?
-  - 토렌트 사이트  
+  - 16년 역사의 국내 최장기 토렌트 사이트  
   - 다른 토렌트 사이트와는 다르게 별도의 마이보고라는 커뮤니티 사이트도 운영함.  
     ㄴ 커뮤니티 사이트인 [마이보고](http://mybogo.net)는 현재도 접속 가능함.  
 
@@ -50,3 +50,4 @@ image:
   - https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=001&aid=0010418768&sid1=001  
   - http://news1.kr/articles/?3457249  
   - https://namu.wiki/w/2018%EB%85%84%20%ED%95%B4%EC%99%B8%20%EB%B6%88%EB%B2%95%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B0%A8%EB%8B%A8  
+  - http://news20.busan.com/controller/newsController.jsp?newsId=20181023000068
