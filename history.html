@@ -2,10 +2,10 @@
 title: sample post
 author: dave
 ---
-
-{% assign event = site.data.history[page.event] %}
-<a rel="event.name"
-  href="{{ event.name }}"
-  title="{{ event.name }}">
-    {{ event.name }}
-</a>
+<ul>
+{% for event in site.data.history %}
+  <li>
+    {{ event.name }} {{ event.ndate }}
+  </li>
+{% endfor %}
+</ul>
