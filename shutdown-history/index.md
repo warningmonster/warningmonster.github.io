@@ -1,6 +1,6 @@
 ---
 layout: page
-title: shutdown-History
+title: Site Shutdown History
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
