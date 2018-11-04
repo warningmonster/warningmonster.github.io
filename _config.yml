@@ -62,6 +62,15 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+# 2018.11.04 검색엔진 기능 추가
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [search.html]
+# End of 검색엔진 기능 추가
+
 include:
   - .htaccess
 exclude:
