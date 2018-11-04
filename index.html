@@ -52,7 +52,6 @@ $(document).ready(function() {
     {% endif %}
   </header>
   <div class="entry-content">
-    <!--{{ post.content }} -->
     {{ post.content | strip_html | strip_newlines | truncate: 300 }}&hellip;<br><br><p align="right"><a href="{{ site.url }}{{ post.url }}" class="btn btn-primary">READ MORE</a></p>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
