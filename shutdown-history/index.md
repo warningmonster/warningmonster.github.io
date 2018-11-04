@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Site Shutdown History
+title: 사이트 중단 이력
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
