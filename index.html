@@ -39,5 +39,11 @@ image:
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
-
+<!--- 2018.11.04 검색 기능 추가-->
+<form action="/search.html" method="get">
+		<label for="search_box">Search</label>
+		<input type="text" id="search_box" name="query">
+		<input type="submit" value="search">
+	</form>
+<!--- End of 2018.11.04 검색 기능 추가-->
 {% include pagination.html %}
