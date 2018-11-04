@@ -65,10 +65,12 @@ kramdown:
 # 2018.11.04 검색엔진 기능 추가
 # Tipue search settings
 tipue_search:
-  include:
-    pages: true
-  exclude:
+  include:                # 포함할 url을 선택한다.
+    pages: true           # posts 폴더 이외에 다른 문서 선택 여부 (true일 경우 모든 url이 포함된다.)
+  exclude:                # 제외시킬 url을 선택한다.
     files: [search.html]
+    categories: []
+    tags: []
 # End of 검색엔진 기능 추가
 
 include:
