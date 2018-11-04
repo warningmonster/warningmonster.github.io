@@ -10,6 +10,14 @@ image:
   creditlink: https://warning.id
 ---
 
+<!--- 2018.11.04 검색 기능 추가-->
+<form action="/search.html" method="get">
+  <label for="search_box">Search</label>
+  <input type="text" id="search_box" name="query">
+  <input type="submit" value="search">
+</form>
+<!--- End of 2018.11.04 검색 기능 추가-->
+
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
@@ -34,14 +42,6 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    <!--- 2018.11.04 검색 기능 추가-->
-    <form action="/search.html" method="get">
-      <label for="search_box">Search</label>
-      <input type="text" id="search_box" name="query">
-      <input type="submit" value="search">
-    </form>
-    <!--- End of 2018.11.04 검색 기능 추가-->
-
     <!--{{ post.content }} -->
     {{ post.content | strip_html | strip_newlines | truncate: 300 }}&hellip;<br><br><p align="right"><a href="{{ site.url }}{{ post.url }}" class="btn btn-primary">READ MORE</a></p>
   </div><!-- /.entry-content -->
