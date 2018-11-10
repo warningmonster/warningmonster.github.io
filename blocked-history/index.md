@@ -9,9 +9,9 @@ comments: false
 modified: 2018-10-28
 ---
 <ul>
-{% for data in site.data.shutdown-history %}
+{% for data in site.data.blocked-history %}
   <li>
-    {{ data.date }} {{ data.event }}
+    {{ data.telecom }} {{ data.domain }} {{ data.first_ymd }} {{ data.last_ymd }}
   </li>
 {% endfor %}
 </ul>
