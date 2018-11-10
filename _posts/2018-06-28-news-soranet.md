@@ -10,6 +10,10 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+> 2018.06.25부로 소라넷 운영자 1명 구속, 나머지 3명은 해외도피 중
+
+<!--more-->
+
 ### 소라넷이란?
   - 회원이 100만명 이상으로 국내 최대 음란물 포털이었으나 2016년 폐쇄.    
 

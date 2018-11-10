@@ -10,6 +10,11 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+> 2018.5월 보고보고 운영자 구속   
+> 보고보고 사이트 폐쇄   
+
+<!--more-->
+
 ### 보고보고이란?
   - 16년 역사의 국내 최장기 토렌트 사이트  
   - 다른 토렌트 사이트와는 다르게 별도의 마이보고라는 커뮤니티 사이트도 운영함.  

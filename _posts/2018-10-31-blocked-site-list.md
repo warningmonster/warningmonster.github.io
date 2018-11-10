@@ -13,6 +13,8 @@ image:
 > 2018.10.31에는 LGU+ 2건이 차단되었습니다.  
 > SKB, KT에서는 차단건이 발견되지 않았습니다.
 
+<!--more-->
+
 ### 1. LGU+  
  - bugstoon.info (https://bugstoon.info) / 웹툰
  - gazua02.com (https://gazua02.com) / 웹툰

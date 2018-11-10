@@ -10,9 +10,9 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-- 위디스크 양진호 회장이 직원 폭행 등으로 물의를 빚고 있음.
-- 이를 뉴스타파에서 2018.10.30 폭로하여 사회적인 이슈 발생함.
-
+> 위디스크 양진호 회장이 직원 폭행 등으로 물의를 빚고 있음.
+> 이를 뉴스타파에서 2018.10.30 폭로하여 사회적인 이슈 발생함.
+<!--more-->
 
 # 관련 기사
 1. ['몰카 제국의 황제’ 양진호(1) 사무실서 前직원 무차별 폭행](https://newstapa.org/43934)

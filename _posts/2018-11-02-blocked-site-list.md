@@ -12,5 +12,8 @@ image:
 ---
 > 2018.11.02에는 LGU+ 1건이 차단되었습니다.  
 > SKB, KT에서는 차단건이 발견되지 않았습니다.
+
+<!--more-->
+
 ### 1. LGU+
  - ttonga.com (https://ttonga.com) / 토렌트

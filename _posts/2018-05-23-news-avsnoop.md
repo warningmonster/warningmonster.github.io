@@ -10,6 +10,10 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+> 앱스눕 운영자(안모씨) 2017년 5월초 음란물 조사를 받고 구속  
+
+<!--more-->
+
 ### 앱스눕이란?
   - 회원제 성인 정보 사이트.    
 

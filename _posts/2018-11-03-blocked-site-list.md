@@ -13,5 +13,7 @@ image:
 > 2018.11.03에는 LGU+ 1건이 차단되었습니다.  
 > SKB, KT에서는 차단건이 발견되지 않았습니다.
 
+<!--more-->
+
 ### 1. LGU+    
  - gazua02.com (https://gazua02.com) / 웹툰  

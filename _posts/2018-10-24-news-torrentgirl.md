@@ -10,6 +10,11 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+> 2018.5월 토렌트킴 운영자 구속   
+> 토렌트킴 사이트 폐쇄   
+
+<!--more-->
+
 ### 토렌트걸이란?
   - 토렌트킴 폐쇄 이후에 국내 1위의 토렌트 사이트
 
