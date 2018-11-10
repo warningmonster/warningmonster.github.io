@@ -68,18 +68,6 @@
 {% endif %}
 <!-- End of 2018.11.04 검색 기능 추가 -->
 
-<!--- 2018.11.10 league 테이블 디자인 추가-->
-<!-- League -->
-{% if page.table_design_active or layout.table_design_active %}
-  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
-  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>-->
-  <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
-  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
-  <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
-  <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
-{% endif %}
-<!-- End of "league 테이블 디자인 추가"  -->
-
 {% if page.image.background or site.background %}
 {% capture background %}{% if page.image.background %}{{ page.image.background }}{% else %}{{ site.background }}{% endif %}{% endcapture %}
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}

@@ -8,11 +8,20 @@ image:
 comments: false
 modified: 2018-10-28
 ---
-<ul>
-<h3> 통신사, 도메인, 최초 차단일, 마지막 차단일</h3>
+<table>
+<thead>
+  <tr>
+    <th>통신사</th>
+    <th>도메인</th>
+    <th>최초차단일</th>
+    <th>최근차단일</th>
+  </tr>
+</thead>
+<tbody>
 {% for data in site.data.blocked-history %}
-  <li>
-    {{ data.telecom }} {{ data.domain }} {{ data.first_ymd }} {{ data.last_ymd }}
-  </li>
+  <tr>
+    <td>{{ data.telecom }}</td><td>{{ data.domain }}</td><td>{{ data.first_ymd }}</td><td>{{ data.last_ymd }}</td>
+  </tr>
 {% endfor %}
-</ul>
+</tbody>
+</table>
