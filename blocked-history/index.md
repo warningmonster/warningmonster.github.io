@@ -9,7 +9,7 @@ comments: false
 modified: 2018-10-28
 ---
 <ul>
-<li> telecom,domain,first_ymd,last_ymd
+## telecom, domain, first_ymd, last_ymd
 {% for data in site.data.blocked-history %}
   <li>
     {{ data.telecom }} {{ data.domain }} {{ data.first_ymd }} {{ data.last_ymd }}
