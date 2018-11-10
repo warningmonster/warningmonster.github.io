@@ -9,7 +9,7 @@ comments: false
 modified: 2018-10-28
 ---
 <ul>
-<h3> telecom, domain, first_ymd, last_ymd</h3>
+<h3> 통신사, 도메인, 최초 차단일, 마지막 차단일</h3>
 {% for data in site.data.blocked-history %}
   <li>
     {{ data.telecom }} {{ data.domain }} {{ data.first_ymd }} {{ data.last_ymd }}
