@@ -73,6 +73,8 @@ tipue_search:
     tags: []
 # End of 검색엔진 기능 추가
 
+excerpt_separator: <!--more-->
+
 include:
   - .htaccess
 exclude:
