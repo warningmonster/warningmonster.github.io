@@ -5,8 +5,8 @@ description: "2018.11.13일자 차단 사이트 목록"
 modified: 2018-11-13
 tags:  [DNS차단, DNS변조,adulti26.com,otorrent22.com,race11.net]
 image:
-  path: /images/abstract-2.jpg
-  feature: abstract-2.jpg
+  path: /images/abstract-4.jpg
+  feature: abstract-4.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
