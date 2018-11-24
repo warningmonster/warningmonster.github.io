@@ -37,16 +37,16 @@ Give the instance a few seconds to start up.
 CentOS 6 and 7
 Install Apache and PHP:
 
-<pre>
-<code>
+```
 sudo yum check-update
 sudo yum -y install httpd php
-</code>
-</pre>
+```
 
 Start the Apache service:
 
 sudo service httpd start
 Optional: Set the Apache service to start automatically:
 
+```
 sudo chkconfig httpd on
+```
