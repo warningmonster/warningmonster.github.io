@@ -37,7 +37,8 @@ Give the instance a few seconds to start up.
 CentOS 6 and 7
 Install Apache and PHP:
 
-`sudo yum check-update  
+`sudo yum check-update
+
 sudo yum -y install httpd php`
 
 Start the Apache service:
