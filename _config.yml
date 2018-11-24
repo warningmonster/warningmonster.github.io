@@ -52,7 +52,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 20
+paginate: 5
 
 kramdown:
   input: GFM
