@@ -10,43 +10,52 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-
-# 구글 클라우드 설치하기
-
-Creating a virtual machine instance
-You can use these steps to deploy the LAMP stack using the Google Cloud Platform Console:
-
-1. 클라우드 플랫폼 콘솔에서, VM 인스턴스 페이지로 이동
-2. Click the Create instance button.
-2. "Create instance" 버튼 클릭
-3. lamp-tutorial에 이름 설정하기
-4. Set Machine type to f1-micro.
-4. "f1-micro" 타입으로 머신 설정
-5. Boot disk 설정에서 "boot disk 환경으로 시작으로 변경" 선택
-6. OS 이미지 탭에서, Debian 7.x, Ubuntu 14.04, CentOS 6.x, or CentOS 7.x version 선택.
+- Cloud : Google Cloud [https://cloud.google.com]
+- OS : CentOS 7.x
+- 설치 SW
+  1. Apache
+  2. PHP
+  3. mongodb
+- 설정
+  1. SSH
+  2. github or gitlab
 
 <!-- more -->
 
-Click Select.
-
-In the Firewall section, select Allow HTTP traffic and Allow HTTPS traffic.
-Click the Create button to create the instance.
-Give the instance a few seconds to start up.
-
-
-CentOS 6 and 7
-Install Apache and PHP:
-
+1. Apache, PHP 설치  
+. 설치
 ```
 sudo yum check-update
 sudo yum -y install httpd php
 ```
 
-Start the Apache service:
-
+. 웹서버 가동
+```
 sudo service httpd start
-Optional: Set the Apache service to start automatically:
+```
 
+. (안해도 무방) OS 기동되면 아파치가 자동으로 실행되게 설정하기
 ```
 sudo chkconfig httpd on
 ```
+
+. PHP 테스트 페이지 만들기
+```
+sudo sh -c 'echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php'
+```
+
+. 사이트 접속해보기
+```
+http://[YOUR_EXTERNAL_IP_ADDRESS]/phpinfo.php
+```
+
+2. mongodb 설치
+```
+sudo chkconfig httpd on
+```
+
+3. ssh 설정
+
+
+5. 참고문헌
+. https://cloud.google.com/community/tutorials/setting-up-lamp
