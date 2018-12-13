@@ -11,9 +11,12 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 ##1. 다운로드 URL = https://www.sublimetext.com/3   
-##2. (다운받은) sublime text3 설치   
+
+##2. (다운받은) sublime text3 설치  
+
 <!-- more -->
-##3. Package control 설치   
+##3. Package control 설치  
+
    https://sublime.wbond.net/installation#st3   
    여기에 가서 아래 문장 복사
    . 단축키 : ctrl+`
@@ -28,6 +31,7 @@ image:
    . Package Control : Install Package 선택    
    
 ##4. 개발 도움주는 package 설치   
+
    1) Sidebar enhancements   
       . 메뉴에서 찾아가기 : Preferences > Package Control > Install > "Sidebar enhancements"     
       . 설치되었으면 서브라임 텍스트 재시작     
