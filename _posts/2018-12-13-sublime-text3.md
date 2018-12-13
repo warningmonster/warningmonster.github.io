@@ -28,6 +28,7 @@ image:
    . Command Pallete 실행     
      . 단축키 : Ctrl-Shift-P   
      . 메뉴에서 찾아가기 : Tools > Command Pallete    
+     
    . Package Control : Install Package 선택    
    
 ### 4. 개발 도움주는 package 설치   
